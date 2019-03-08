@@ -1,6 +1,4 @@
-button {
-  background-color: pink;
-}
+
 body {
 display: flex;
 flex-direction: column;
@@ -33,4 +31,12 @@ input {
 
 .addOption {
   margin-top: 10px;
+}
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
 }
